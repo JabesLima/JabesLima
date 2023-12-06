@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jabes_silva_eua_ofc/)
 
 ![jabes GitHub stats](https://github-readme-stats.vercel.app/api?username=Jabes-Lima&show_icons=true&theme=transparent)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-Lima)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no dia
 <div style="display: inline_block"><br/>
