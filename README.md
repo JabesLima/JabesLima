@@ -16,4 +16,4 @@
     <img aling="center" alt = "html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-Apaixonado por tecnologia❤️
+Apaixonado por tecnologia❤️👩🏻‍💻
